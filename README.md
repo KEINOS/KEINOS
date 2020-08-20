@@ -1,6 +1,6 @@
 # Profile of KEINOS
 
-[![](Official_image_of_KEINOS.png "The real scanned skull of KEINOS")](https://github.com/KEINOS/CalacaDeKEINOS)
+[![](https://raw.githubusercontent.com/KEINOS/KEINOS/master/Official_image_of_KEINOS.png "The real scanned skull of KEINOS")](https://github.com/KEINOS/CalacaDeKEINOS)
 
 - Name: KEINOS
 - Taxonomy: Japonicus Chilangosis Mexicanus
