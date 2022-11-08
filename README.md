@@ -9,7 +9,6 @@
 - Details: [`Look deep inside KEINOS`](https://github.com/KEINOS/CalacaDeKEINOS "Download The Skull Data of KEINOS")
 - Open Sources: [https://github.com/KEINOS](https://github.com/KEINOS/) @ GitHub
 - Articles: [https://qiita.com/KEINOS](https://qiita.com/KEINOS) @ Qiita
-- Blog: [https://blog.keinos.com/](https://blog.keinos.com/)
 
 ## Qiita Status
 
